@@ -12,7 +12,17 @@ author : ManshuTyagi
 
 ### Changelog
 2021-06-20
-* Fixed audio in Wifi calls
+* Corvus sources upstream
+* June security patch
+* Passes safetynet without magisk
+* Fixed Wi-Fi Calling
+* Fixed Lockscreen wallpaper bug
+* Added AOD
+* Added Engineer Mode
+* Added Battery Health Info
+* Added Multi User Support
+* Enabled Call Recording
+* Misc improvements
 
 ### Working features:
 * VoLTE, Wifi calling
@@ -75,4 +85,4 @@ author : ManshuTyagi
 * **Device tree** - [Click here](https://github.com/ManshuTyagi/device_realme_RMX2001)
 * **Kernel source** - [Click here](https://github.com/ManshuTyagi/kernel_realme_RMX2001)
 * **Thanks to @SamarV121 for Trees**
-* **Rom source** - [Click here](https://github.com/Corvus-R)
+
