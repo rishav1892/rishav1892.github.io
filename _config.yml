@@ -23,7 +23,7 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: ManshuTyagi Builds
+title: YadavMohit19 Builds
 description: "Nothing."
 keywords: 
 author:
@@ -33,9 +33,9 @@ author:
   email:
   social_links:
     - name: facebook
-      url: https://t.me/ManshuTyagi
+      url: https://t.me/YadavMohit19
     - name: github
-      url: https://github.com/ManshuTyagi
+      url: https://github.com/YadavMohit19
     - name: instagram
       url:
     - name: linkedin
@@ -47,9 +47,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>ManshuTyagi Builds</h1>
+  section1: <h1>YadavMohit19 Builds</h1>
   section2: <h2>:)</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ManshuTyagi" title="View on GitHub"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/YadavMohit19" title="View on GitHub"></a></div>
 blog:
   cc_license: # A link to CC License of your choice.
   cc_license_image:  # An image of your CC License. 
