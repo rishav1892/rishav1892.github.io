@@ -23,7 +23,7 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: YadavMohit19 Builds
+title: rishav1892 Builds
 description: "Nothing."
 keywords: 
 author:
@@ -33,9 +33,9 @@ author:
   email:
   social_links:
     - name: facebook
-      url: https://t.me/YadavMohit19
+      url: https://t.me/mr_rishav_10
     - name: github
-      url: https://github.com/YadavMohit19
+      url: https://github.com/rishav1892
     - name: instagram
       url:
     - name: linkedin
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>YadavMohit19 Builds</h1>
+  section1: <h1>rishav1892 Builds</h1>
   section2: <h2>:)</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/YadavMohit19" title="View on GitHub"></a></div>
 blog:
